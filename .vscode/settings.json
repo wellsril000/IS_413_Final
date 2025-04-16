@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/da0dd7b0-a6c2-4454-90c5-409c15467dce/resourceGroups/appsvc_windows_westus2/providers/Microsoft.Web/sites/Final-Backend",
+  "appService.deploySubpath": "backend/IS_413_Final/publish"
+}

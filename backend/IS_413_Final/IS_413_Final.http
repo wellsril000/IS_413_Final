@@ -1,0 +1,6 @@
+@IS_413_Final_HostAddress = http://localhost:5075
+
+GET {{IS_413_Final_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
